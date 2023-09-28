@@ -1,6 +1,7 @@
 # Criando uma Api Rest com Kotlin e Persistência de Dados
 
-API Rest para um Sistema de Analise de Solicitação de Crédito desenvolvido durante o 'Bootcamp Code Update TQI - Backend com Kotlin e Java da DIO (Digital Innovation One).
+API Rest para um Sistema de Analise de Solicitação de Crédito desenvolvido durante os cursos:<br> * `Criando uma Api Rest com Kotlin e Persistência de Dados` <br> * `Documentando e Testando sua API Rest com Kotlin`<br> 
+do Bootcamp Code Update TQI - Backend com Kotlin e Java da DIO (Digital Innovation One).
 
 <p align="center">
   <img src=".github/Code Update TQI - Backend com Kotlin e Java.jpg" width="100%">
